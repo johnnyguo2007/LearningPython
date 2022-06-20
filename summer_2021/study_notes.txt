@@ -1,0 +1,5 @@
+range function is from 0 to one minus the range number.
+For example, range(10) is 0, 9
+when you have two loops inside of each other, once you go in the first loop you have to finish the second loop
+to go back to the first loop.
+print statement usually end with new line, if you don't want that put end=''.
